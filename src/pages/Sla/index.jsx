@@ -11,7 +11,7 @@ function Sla() {
             </h1>
 
             <h6>
-                - ma que merda se ta fazendo rapaz? n tinha q trocar algo pelo nop chara
+                - ma que merda se ta fazendo rapaz? n tinha q trocar algo pelo nop chara - tenta corrigir isso aew  
             </h6>
 
             <Link to="/">

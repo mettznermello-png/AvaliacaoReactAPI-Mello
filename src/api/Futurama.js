@@ -8,5 +8,5 @@ export async function getCharacters() {
   }
 
   const data = await response.json()
-  return data.results
+  return data.items
 }
