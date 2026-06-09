@@ -11,7 +11,7 @@ function Sla() {
             </h1>
 
             <h6>
-                - compara o que funciona e o que nao funciona, boa sorte ok -
+                - ma que merda se ta fazendo rapaz? n tinha q trocar algo pelo nop chara
             </h6>
 
             <Link to="/">

@@ -1,9 +1,11 @@
 import './style.css'
 import { Link } from 'react-router-dom'
+import Card from './components/Card'
 
 function Home() {
 
     return (
+        
 
         <>
             <h2>

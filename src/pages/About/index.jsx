@@ -7,8 +7,12 @@ function About() {
 
         <>
             <h2>
-                about
+                About
             </h2>
+
+            <p>
+                Todos os direitos reservados a Joao Mello - @2026
+            </p>
             
               <Link to="/">
                 <button>
